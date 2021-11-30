@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[20]:
-
-
-
-
 number_vertices = 7 # number of vertices
 
 Graph = [[0, 28, 0, 0, 0, 10, 0],
